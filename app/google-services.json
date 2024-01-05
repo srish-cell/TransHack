@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945196392936",
+    "project_id": "transhack-4d172",
+    "storage_bucket": "transhack-4d172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945196392936:android:aa1825ffc4a565af74045d",
+        "android_client_info": {
+          "package_name": "com.example.transhack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZX6P-HVziJTKGGF07mJX1WgiX7Q63rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
