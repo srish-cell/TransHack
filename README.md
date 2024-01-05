@@ -4,5 +4,6 @@ TransHack is a mobile application and CLI tool designed to bolster individual se
 ## Setting up TransHack
 1) Installing TransHack is a very easy process.
 2) First, TransHack comes compatible to mobile phones and it can also be used as  cli tool.
-3) To install the TransHack Mobile App, Download the apk named "TransHack" from the repository and install the apk.
+3) To install the TransHack Mobile App, Download the zip file named "TransHack" from the repository and then unzip and install the apk.
 4) To install the cli tool of TransHack, You have to download tools.py and run it after changing the server details.
+5) 
